@@ -1,0 +1,7 @@
+{
+  "name": "voo-socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thiago",
+  "license": "MIT"
+}
