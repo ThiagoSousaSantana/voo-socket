@@ -1,7 +1,14 @@
 {
   "name": "voo-socket",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node src/app.js"
+  },
   "author": "Thiago",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
 }
